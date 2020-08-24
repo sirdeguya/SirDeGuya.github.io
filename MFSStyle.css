@@ -1,0 +1,48 @@
+.header {
+    text-align: center;
+    background-color:  #900C3F;
+    color: whitesmoke;
+}
+body {
+    background-color: #faf9f7;
+    font-family: 'Varela Round', Alef;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #e77373;
+}
+li {
+    float: center;
+    color: whitesmoke;
+}
+
+li a {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #900C3F ;
+}
+.rcplist {
+    text-align: right;
+}
+dt {
+    display: block;
+    background-color: #900C3F ;
+    color: whitesmoke;
+    padding: 5px;
+}
+dt img {
+    float: right;
+    border:2px solid tomato;
+}
+dd {
+    padding: 50px;
+}
